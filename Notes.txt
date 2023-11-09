@@ -1,0 +1,2 @@
+Got the font-awesome cdn link from https://cdnjs.com/libraries/font-awesome
+
