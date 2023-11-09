@@ -11,5 +11,6 @@
 6.) Test next button functionality
 
 7.) Test play/pause button functionality
-
-8.) Test shuffle functionality
+(a) Play track
+(b) Pause track
+(c) Toggle between play/pause
