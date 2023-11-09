@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://natsudrag9.github.io/music-player/"
+}
