@@ -1,0 +1,15 @@
+1.) Test whether track image is displayed or alt-text
+
+2.) Test all text to be displayed track name, track artist
+
+3.) Test both slider functionality
+
+4.) Test shuffle functionality
+
+5.) Test prev button functionality
+
+6.) Test next button functionality
+
+7.) Test play/pause button functionality
+
+8.) Test shuffle functionality
