@@ -1,3 +1,5 @@
 Got the font-awesome cdn link from https://cdnjs.com/libraries/font-awesome
 
 Could not test this application because I used vanilla JS. I just decided to complete the application without testing it.
+
+There are bugs in this application which need to be fixed

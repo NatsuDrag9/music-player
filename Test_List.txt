@@ -1,16 +1,12 @@
-1.) Test whether track image is displayed or alt-text
+1.) Test both slider functionality
 
-2.) Test all text to be displayed track name, track artist
+2.) Test shuffle functionality
 
-3.) Test both slider functionality
+3.) Test prev button functionality
 
-4.) Test shuffle functionality
+4.) Test next button functionality
 
-5.) Test prev button functionality
-
-6.) Test next button functionality
-
-7.) Test play/pause button functionality
+5.) Test play/pause button functionality
 (a) Play track
 (b) Pause track
 (c) Toggle between play/pause
